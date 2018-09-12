@@ -25,7 +25,7 @@ export default class GalleryItem extends Component {
                 <Text note>{this.props.galleryItem.descripcionImagen}</Text>
               </Body>
             </Left>
-              <Icon style={styles.airplay} name="desktop" onPress={ this.pushArtworkToFrames.bind(this) }/>
+            <Icon style={styles.airplay} name="desktop" onPress={ this.pushArtworkToFrames.bind(this) }/>
           </CardItem>
         </Card>
     );
@@ -35,6 +35,9 @@ export default class GalleryItem extends Component {
 const styles = StyleSheet.create({
   image: {
     marginRight: 5
+  },
+  button: {
+
   },
   airplay: {
     color: 'black'
