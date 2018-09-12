@@ -1,0 +1,59 @@
+{
+  "imagenes" : {
+    "a" : {
+      "imagenURL" : "https://2qn4774cz98e17p2h549htbt-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Interesting-facts-about-Quito-Ecuador-720x514.jpg",
+      "nombreImagen" : "Paisaje de Quito",
+      "descripcionImagen" : "Fotografía tomada desde el panecillo",
+      "previaImagenURL" : "https://2qn4774cz98e17p2h549htbt-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Interesting-facts-about-Quito-Ecuador-720x514.jpg"
+    },
+    "b" : {
+      "imagenURL" : "https://www.travelbook.de/data/uploads/2017/06/19648316_1511f57cb4-1040x690.jpg",
+      "nombreImagen" : "Iglesia La Basílica",
+      "descripcionImagen" : "Fotografía de la iglesia La Basílica de Quito",
+      "previaImagenURL" : "https://www.travelbook.de/data/uploads/2017/06/19648316_1511f57cb4-1040x690.jpg"
+    },
+    "c" : {
+      "imagenURL" : "https://photo980x880.mnstatic.com/d2/5f/d25fe353d11ad9256efc615e600aac7e.jpg",
+      "nombreImagen" : "Mitad del mundo",
+      "descripcionImagen" : "Monumento de la mitad del mundo en Quito",
+      "previaImagenURL" : "https://photo980x880.mnstatic.com/d2/5f/d25fe353d11ad9256efc615e600aac7e.jpg"
+    },
+    "d" : {
+      "imagenURL" : "http://s3.india.com/wp-content/uploads/2018/08/Cotopaxi-volcano-eruption-seen-from-Quito-Ecuador.jpg",
+      "nombreImagen" : "Cotopaxi",
+      "descripcionImagen" : "Fotografía del Cotopaxi y la ciudad",
+      "previaImagenURL" : "http://s3.india.com/wp-content/uploads/2018/08/Cotopaxi-volcano-eruption-seen-from-Quito-Ecuador.jpg"
+    },
+    "e" : {
+      "imagenURL" : "https://s16592.pcdn.co/wp-content/uploads/2017/10/Quito-Ecuador-2.jpg",
+      "nombreImagen" : "Iglesia La Compañia",
+      "descripcionImagen" : "Fotografía de la iglesia La Compañia",
+      "previaImagenURL" : "https://s16592.pcdn.co/wp-content/uploads/2017/10/Quito-Ecuador-2.jpg"
+    },
+    "f" : {
+      "imagenURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHz8M5x-WzePmLb3l_MUGp1XpqckTha-EhsfEjzfkOrra8F4LH",
+      "nombreImagen" : "Monumento de la Independencia",
+      "descripcionImagen" : "Escultura al grito de la independencia de Quito",
+      "previaImagenURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHz8M5x-WzePmLb3l_MUGp1XpqckTha-EhsfEjzfkOrra8F4LH"
+    }
+  },
+  "monitores" : {
+    "a" : {
+      "imagenActual" : {
+        "imagenURL" : "https://2qn4774cz98e17p2h549htbt-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Interesting-facts-about-Quito-Ecuador-720x514.jpg",
+        "nombreImagen" : "Paisaje de Quito",
+        "descripcionImagen" : "Fotografía tomada desde el panecillo",
+        "previaImagenURL" : "https://2qn4774cz98e17p2h549htbt-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/Interesting-facts-about-Quito-Ecuador-720x514.jpg"
+      },
+      "nombreMonitor" : "Monitor de la sala",
+      "usuarioActual" : {
+        "nombreUsuario" : "Esteban"
+      }
+    }
+  },
+  "usuarios" : {
+    "a" : {
+      "nombreUsuario" : "Esteban Aristizabal"
+    }
+  }
+}
